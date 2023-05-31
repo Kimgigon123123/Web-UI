@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<title>수코딩 클론</title>
+	<link rel="stylesheet" href="" />
+	<script src=""></script>
+	gf
+	
+</head>
+<body>
+	<header>
+		<div class="logo"></div>
+		<!-- /.logo -->
+		<nav class="main_nav">
+			<ul id="gnb">
+				<li><a href="#">소개</a></li>
+				<li><a href="#">커리큘럼</a></li>
+				<li><a href="#">커뮤니티</a></li>
+				<li><a href="#">고객센터</a></li>
+			</ul>
+			<!-- /#gnb -->
+		</nav>
+		<!-- /.main_nav -->
+		<div class="login"></div>
+		<!-- /.login -->
+	</header>
+	
+	 
+	 <div class="carousel">
+	 	<div class="prev"></div>
+	 	<!-- /.prev -->
+	 	<div class="contents">
+	 		<div class="conn_left"></div>
+	 		<!-- /.conn_left -->
+	 		<conn_right class="pager"></conn_right>
+	 		<!-- /.pager -->
+	 	</div>
+	 	<!-- /.contents -->
+	 	<div class="next"></div>
+	 	<!-- /.next -->
+	 	<div class="pagers"></div>
+	 	<!-- /.pagers -->
+	 </div>
+	 <!-- /.carousel -->
+	 
+	 section>article*2>.article_title+ul.article_lists>li*3>img.li_img+h2.li_title+p.li_text+hr+div>.fee+audience|c
+	 <footer>
+	 	<div class="site_title">
+	 		<img src="https://picsum.photos/30" alt="수코딩" />
+	 		<div class="site_brand">수코딩</div>
+	 		<!-- /.site_brand -->
+	 	</div>
+	 	<!-- /.site_title -->
+	 	<div class="site_vision">수코딩은 어쩌고 저쩌고 합니다.</div>
+	 	<!-- /.site_vision -->
+	 	<div class="site_link"></div>
+	 	<!-- /.site_link -->
+	 	<div class="site_info"></div>
+	 	<!-- /.site_info -->
+	 </footer>
+</body>
+</html>
